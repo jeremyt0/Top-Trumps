@@ -1,0 +1,187 @@
+{
+    "edition": "Sample",
+    "date": "2021",
+    "deck": [
+        {
+            "title": "alpha",
+            "stats": [
+                {
+                    "name": "a",
+                    "value": "1",
+                    "win": "high"
+                },
+                {
+                    "name": "b",
+                    "value": "2",
+                    "win": "high"
+                },
+                {
+                    "name": "c",
+                    "value": "3",
+                    "win": "high"
+                },
+                {
+                    "name": "d",
+                    "value": "4",
+                    "win": "high"
+                },
+                {
+                    "name": "e",
+                    "value": "5",
+                    "win": "high"
+                }
+            ]
+        },
+        {
+            "title": "bravo",
+            "stats": [
+                {
+                    "name": "a",
+                    "value": "2",
+                    "win": "high"
+                },
+                {
+                    "name": "b",
+                    "value": "3",
+                    "win": "high"
+                },
+                {
+                    "name": "c",
+                    "value": "4",
+                    "win": "high"
+                },
+                {
+                    "name": "d",
+                    "value": "5",
+                    "win": "high"
+                },
+                {
+                    "name": "e",
+                    "value": "1",
+                    "win": "high"
+                }
+            ]
+        },
+        {
+            "title": "charlie",
+            "stats": [
+                {
+                    "name": "a",
+                    "value": "7",
+                    "win": "high"
+                },
+                {
+                    "name": "b",
+                    "value": "5",
+                    "win": "high"
+                },
+                {
+                    "name": "c",
+                    "value": "2",
+                    "win": "high"
+                },
+                {
+                    "name": "d",
+                    "value": "4",
+                    "win": "high"
+                },
+                {
+                    "name": "e",
+                    "value": "8",
+                    "win": "high"
+                }
+            ]
+        },
+        {
+            "title": "delta",
+            "stats": [
+                {
+                    "name": "a",
+                    "value": "5",
+                    "win": "high"
+                },
+                {
+                    "name": "b",
+                    "value": "5",
+                    "win": "high"
+                },
+                {
+                    "name": "c",
+                    "value": "5",
+                    "win": "high"
+                },
+                {
+                    "name": "d",
+                    "value": "5",
+                    "win": "high"
+                },
+                {
+                    "name": "e",
+                    "value": "2",
+                    "win": "high"
+                }
+            ]
+        },
+        {
+            "title": "echo",
+            "stats": [
+                {
+                    "name": "a",
+                    "value": "8",
+                    "win": "high"
+                },
+                {
+                    "name": "b",
+                    "value": "8",
+                    "win": "high"
+                },
+                {
+                    "name": "c",
+                    "value": "2",
+                    "win": "high"
+                },
+                {
+                    "name": "d",
+                    "value": "2",
+                    "win": "high"
+                },
+                {
+                    "name": "e",
+                    "value": "1",
+                    "win": "high"
+                }
+            ]
+        },
+        {
+            "title": "foxtrot",
+            "stats": [
+                {
+                    "name": "a",
+                    "value": "9",
+                    "win": "high"
+                },
+                {
+                    "name": "b",
+                    "value": "7",
+                    "win": "high"
+                },
+                {
+                    "name": "c",
+                    "value": "5",
+                    "win": "high"
+                },
+                {
+                    "name": "d",
+                    "value": "3",
+                    "win": "high"
+                },
+                {
+                    "name": "e",
+                    "value": "1",
+                    "win": "high"
+                }
+            ]
+        }
+    ],
+    "deck_size": 3
+}

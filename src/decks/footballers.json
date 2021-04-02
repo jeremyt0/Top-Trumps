@@ -1,0 +1,318 @@
+{
+    "edition": "Footballers",
+    "date": "2021",
+    "deck": [
+        {
+            "title": "Jez",
+            "stats": [
+                {
+                    "name": "pace",
+                    "value": "90",
+                    "win": "high" 
+                },
+                {
+                    "name": "passing",
+                    "value": "70",
+                    "win": "high" 
+                },
+                {
+                    "name": "shooting",
+                    "value": "80",
+                    "win": "high" 
+                },
+                {
+                    "name": "dribbling",
+                    "value": "50",
+                    "win": "high" 
+                },
+                {
+                    "name": "heading",
+                    "value": "80",
+                    "win": "low" 
+                }
+            ],
+            "tier": "Gold"
+        },
+        {
+            "title": "Seb",
+            "stats": [
+                {
+                    "name": "pace",
+                    "value": "40",
+                    "win": "high" 
+                },
+                {
+                    "name": "passing",
+                    "value": "50",
+                    "win": "high" 
+                },
+                {
+                    "name": "shooting",
+                    "value": "80",
+                    "win": "high" 
+                },
+                {
+                    "name": "dribbling",
+                    "value": "60",
+                    "win": "high" 
+                },
+                {
+                    "name": "heading",
+                    "value": "99",
+                    "win": "low" 
+                }
+            ],
+            "tier": "Gold"
+        },
+        {
+            "title": "V",
+            "stats": [
+                {
+                    "name": "pace",
+                    "value": "50",
+                    "win": "high" 
+                },
+                {
+                    "name": "passing",
+                    "value": "40",
+                    "win": "high" 
+                },
+                {
+                    "name": "shooting",
+                    "value": "80",
+                    "win": "high" 
+                },
+                {
+                    "name": "dribbling",
+                    "value": "70",
+                    "win": "high" 
+                },
+                {
+                    "name": "heading",
+                    "value": "40",
+                    "win": "low" 
+                }
+            ],
+            "tier": "Gold"
+        },
+        {
+            "title": "B",
+            "stats": [
+                {
+                    "name": "pace",
+                    "value": "50",
+                    "win": "high" 
+                },
+                {
+                    "name": "passing",
+                    "value": "60",
+                    "win": "high" 
+                },
+                {
+                    "name": "shooting",
+                    "value": "30",
+                    "win": "high" 
+                },
+                {
+                    "name": "dribbling",
+                    "value": "50",
+                    "win": "high" 
+                },
+                {
+                    "name": "heading",
+                    "value": "80",
+                    "win": "low" 
+                }
+            ],
+            "tier": "Gold"
+        },
+        {
+            "title": "A",
+            "stats": [
+                {
+                    "name": "pace",
+                    "value": "90",
+                    "win": "high" 
+                },
+                {
+                    "name": "passing",
+                    "value": "60",
+                    "win": "high" 
+                },
+                {
+                    "name": "shooting",
+                    "value": "50",
+                    "win": "high" 
+                },
+                {
+                    "name": "dribbling",
+                    "value": "90",
+                    "win": "high" 
+                },
+                {
+                    "name": "heading",
+                    "value": "40",
+                    "win": "low" 
+                }
+            ],
+            "tier": "Gold"
+        },
+        {
+            "title": "S",
+            "stats": [
+                {
+                    "name": "pace",
+                    "value": "80",
+                    "win": "high" 
+                },
+                {
+                    "name": "passing",
+                    "value": "40",
+                    "win": "high" 
+                },
+                {
+                    "name": "shooting",
+                    "value": "50",
+                    "win": "high" 
+                },
+                {
+                    "name": "dribbling",
+                    "value": "60",
+                    "win": "high" 
+                },
+                {
+                    "name": "heading",
+                    "value": "30",
+                    "win": "low" 
+                }
+            ],
+            "tier": "Gold"
+        },
+        {
+            "title": "D",
+            "stats": [
+                {
+                    "name": "pace",
+                    "value": "40",
+                    "win": "high" 
+                },
+                {
+                    "name": "passing",
+                    "value": "60",
+                    "win": "high" 
+                },
+                {
+                    "name": "shooting",
+                    "value": "30",
+                    "win": "high" 
+                },
+                {
+                    "name": "dribbling",
+                    "value": "40",
+                    "win": "high" 
+                },
+                {
+                    "name": "heading",
+                    "value": "60",
+                    "win": "low" 
+                }
+            ],
+            "tier": "Gold"
+        },
+        {
+            "title": "F",
+            "stats": [
+                {
+                    "name": "pace",
+                    "value": "40",
+                    "win": "high" 
+                },
+                {
+                    "name": "passing",
+                    "value": "30",
+                    "win": "high" 
+                },
+                {
+                    "name": "shooting",
+                    "value": "60",
+                    "win": "high" 
+                },
+                {
+                    "name": "dribbling",
+                    "value": "40",
+                    "win": "high" 
+                },
+                {
+                    "name": "heading",
+                    "value": "50",
+                    "win": "low" 
+                }
+            ],
+            "tier": "Gold"
+        },
+        {
+            "title": "G",
+            "stats": [
+                {
+                    "name": "pace",
+                    "value": "40",
+                    "win": "high" 
+                },
+                {
+                    "name": "passing",
+                    "value": "60",
+                    "win": "high" 
+                },
+                {
+                    "name": "shooting",
+                    "value": "50",
+                    "win": "high" 
+                },
+                {
+                    "name": "dribbling",
+                    "value": "40",
+                    "win": "high" 
+                },
+                {
+                    "name": "heading",
+                    "value": "60",
+                    "win": "low" 
+                }
+            ],
+            "tier": "Gold"
+        },
+        {
+            "title": "J",
+            "stats": [
+                {
+                    "name": "pace",
+                    "value": "69",
+                    "win": "high" 
+                },
+                {
+                    "name": "passing",
+                    "value": "69",
+                    "win": "high" 
+                },
+                {
+                    "name": "shooting",
+                    "value": "69",
+                    "win": "high" 
+                },
+                {
+                    "name": "dribbling",
+                    "value": "69",
+                    "win": "high" 
+                },
+                {
+                    "name": "heading",
+                    "value": "69",
+                    "win": "low" 
+                }
+            ],
+            "tier": "Gold"
+        }
+        
+    ],
+    "deck_size": "10"
+}
